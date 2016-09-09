@@ -8,7 +8,7 @@ authentication with the Requests module.
 # http://opensource.org/licenses/MIT
 
 
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 import hmac
 import hashlib
